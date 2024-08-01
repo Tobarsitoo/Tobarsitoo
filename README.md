@@ -1,9 +1,9 @@
 # 👨‍💻 About Me
-🏢 Working at a Government Cooperative creating software to optimize processes
+🏢 Working at a Government Cooperative creating software to optimize processes.
 
-🎓 Studying at Fundación Universitaria Lumen Gentium
+🎓 Studying at Fundación Universitaria Lumen Gentium.
 
-📚 Learning NestJS and Angular
+📚 Learning NestJS and Angular.
 
 # 🌐 Socials
 <p align="center">
