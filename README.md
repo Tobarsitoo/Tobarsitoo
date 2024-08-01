@@ -1,0 +1,3 @@
+- 🏢 Working at a Government Cooperative on process optimization software 	
+- 🎓 Studying at Fundación Universitaria Lumen Gentium 	
+- 📚 Learning NestJS and Angular to enhance my skills
