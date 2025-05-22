@@ -1,5 +1,4 @@
 # 👨‍💻 About Me
-🏢 Working at a Government Cooperative creating software to optimize processes.
 
 🎓 Studying at Fundación Universitaria Lumen Gentium.
 
